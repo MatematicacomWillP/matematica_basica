@@ -14,3 +14,13 @@ E já temos a nossa lista de exercícios que está disponível em PDF para downl
 
 Lista 01 - Aula_02
 A resolução da lista sobre Números Decimais, está disponível no youtube --> https://youtu.be/NXhuOHqj6WA
+
+#Aula 03
+Números Fracionários - Link da aula 03 -> https://youtu.be/3yB8N2X8I2M
+
+#Aula 04
+Números Inteiros e Fracionários - Link da aula 04 -> https://youtu.be/4w12YzD3LcA
+
+#Aula 05
+Potenciação e Radiciação -  Link da aula 05 -> https://youtu.be/98l_cI_TTkg
+Lista de exercício da aula 05 já disponível em PDF
